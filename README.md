@@ -1,4 +1,4 @@
-#CPU_notify
+# CPU_notify
 Данный бот был написан для уведомления администратора об высокой температуре процессора Orange Pi (может работать аналогично и на пк).
 
 Используется утилита lm-sensors, библиотеки [TelegrambotAPI](https://pypi.org/project/pyTelegramBotAPI/), os, time
